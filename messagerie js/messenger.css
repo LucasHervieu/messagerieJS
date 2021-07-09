@@ -1,0 +1,14 @@
+.zoneMessage{position:relative;width:300px}
+#messenger{position:relative;border:1px solid black;height:200px;width:100%}
+#bdd{border:1px solid red;height:30px;
+  width:300px;margin:5px 0px}
+#message{width:300px;line-height:20px;padding:5px}
+#emojis{width: 300px;
+    border: 1px solid black;
+    height: 24px;
+    margin-top: 5px;
+    padding: 10px;}
+.button{background-color:green;color:white;
+display:inline-block;padding:5px;margin:5px}
+.writing{position:absolute;width:291px;bottom:0px;background-color:#666;color:white;
+padding: 5px;transition: all 0.35s ease 0s;opacity:0}
